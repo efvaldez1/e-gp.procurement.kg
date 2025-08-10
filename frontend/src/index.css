@@ -1,0 +1,9 @@
+/* //
+// index.css
+// This file contains a basic set of CSS rules for your React app.
+// It imports the Tailwind CSS library.
+// Place this file in the `/frontend/src` directory.
+// */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
