@@ -146,8 +146,8 @@ const App = () => {
             className="h-16 w-16 mr-4 rounded-full" 
         />
         <div>
-            <h1 className="text-5xl font-extrabold text-gray-800 tracking-tight leading-tight">E-Procurement Demo</h1>
-            <p className="mt-3 text-lg text-gray-600">Manage tenders with this simple CRUD application.</p>
+            <h1 className="text-5xl font-extrabold text-gray-800 tracking-tight leading-tight">Proof-of-Concept-E-Procurement Application</h1>
+            <p className="mt-3 text-lg text-gray-600">Manage tenders with this proof-of-concept application.</p>
         </div>
         </header>
 
